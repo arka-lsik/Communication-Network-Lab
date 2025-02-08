@@ -6,4 +6,5 @@
 4. To find shortest distance from a single source using Bellman Ford Algorithm.
 5. GENERATE A TIME SAMPLED VERSION OF FREQUENCY MODULATED SIGNAL AND PLOT THE SAME ON A GRAPH.
 6. Study On L2 Switchs.
+7. On WAN(Wide Area Network) using Routers. 
 
