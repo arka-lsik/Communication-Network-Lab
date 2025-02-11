@@ -8,5 +8,8 @@
 6. DFT & IDFT OF FREQUENCY MODULATED SIGNAL
 7. FM DEMODULATION USING FOSTER SEELEY TECHNIQUE.
 8. Study On L2 Switchs.
-9. On WAN(Wide Area Network) using Routers. 
+9. On WAN(Wide Area Network) using Routers.
+10. STUDY ON MPLS & WIRELESS LAN.
+11. STUDY EPABX & SONET SDH.
+12. Socket Programming.
 
